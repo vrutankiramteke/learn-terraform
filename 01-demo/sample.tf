@@ -4,3 +4,4 @@ resource "ec2_instance" "ec2-user" {
   tags = {
     Name = "Terraform EC2"
   }
+}
